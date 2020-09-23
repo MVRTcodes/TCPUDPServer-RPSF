@@ -1,0 +1,13 @@
+H:\WORK\ProyectofinalUnity\Servidor(Online)\ServidorRPSF\ServidorRPSF\bin\Debug\netcoreapp3.1\ServidorRPSF.exe
+H:\WORK\ProyectofinalUnity\Servidor(Online)\ServidorRPSF\ServidorRPSF\bin\Debug\netcoreapp3.1\ServidorRPSF.deps.json
+H:\WORK\ProyectofinalUnity\Servidor(Online)\ServidorRPSF\ServidorRPSF\bin\Debug\netcoreapp3.1\ServidorRPSF.runtimeconfig.json
+H:\WORK\ProyectofinalUnity\Servidor(Online)\ServidorRPSF\ServidorRPSF\bin\Debug\netcoreapp3.1\ServidorRPSF.runtimeconfig.dev.json
+H:\WORK\ProyectofinalUnity\Servidor(Online)\ServidorRPSF\ServidorRPSF\bin\Debug\netcoreapp3.1\ServidorRPSF.dll
+H:\WORK\ProyectofinalUnity\Servidor(Online)\ServidorRPSF\ServidorRPSF\bin\Debug\netcoreapp3.1\ServidorRPSF.pdb
+H:\WORK\ProyectofinalUnity\Servidor(Online)\ServidorRPSF\ServidorRPSF\obj\Debug\netcoreapp3.1\ServidorRPSF.csprojAssemblyReference.cache
+H:\WORK\ProyectofinalUnity\Servidor(Online)\ServidorRPSF\ServidorRPSF\obj\Debug\netcoreapp3.1\ServidorRPSF.csproj.CoreCompileInputs.cache
+H:\WORK\ProyectofinalUnity\Servidor(Online)\ServidorRPSF\ServidorRPSF\obj\Debug\netcoreapp3.1\ServidorRPSF.AssemblyInfoInputs.cache
+H:\WORK\ProyectofinalUnity\Servidor(Online)\ServidorRPSF\ServidorRPSF\obj\Debug\netcoreapp3.1\ServidorRPSF.AssemblyInfo.cs
+H:\WORK\ProyectofinalUnity\Servidor(Online)\ServidorRPSF\ServidorRPSF\obj\Debug\netcoreapp3.1\ServidorRPSF.dll
+H:\WORK\ProyectofinalUnity\Servidor(Online)\ServidorRPSF\ServidorRPSF\obj\Debug\netcoreapp3.1\ServidorRPSF.pdb
+H:\WORK\ProyectofinalUnity\Servidor(Online)\ServidorRPSF\ServidorRPSF\obj\Debug\netcoreapp3.1\ServidorRPSF.genruntimeconfig.cache
